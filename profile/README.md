@@ -5,7 +5,6 @@
 <a href="https://github.com/phpshift/Work" target="_blank"><img src="https://img.shields.io/badge/Work-1.0.0-%23cc00ff" alt="Work"></a>
 <a href="https://github.com/phpshift/Docs" target="_blank"><img src="https://img.shields.io/badge/Docs-1.0.0-%23cc00ff" alt="Docs"></a>
 <a href="https://github.com/phpshift/Ship" target="_blank"><img src="https://img.shields.io/badge/Ship-1.0.0-%23cc00ff" alt="Ship"></a>
-<a href="https://github.com/phpshift/Page" target="_blank"><img src="https://img.shields.io/badge/Page-Live-%23cc00ff" alt="Page"></a>
 </p>
 <br/>
 
@@ -35,14 +34,13 @@ PHPShift™ is the world's first AI-powered full-stack framework, it includes a 
 
 ## Unified System Architecture
 
-The PHPShift™ framework consists of 6 subsystems that work together to make the framework what it is today:
+The PHPShift™ framework consists of 5 subsystems that work together to make the framework what it is today:
 
 1. [PHPShift](https://github.com/phpshift/PHPShift) - Unifies framework subsystems under a single version
 2. [Frame](https://github.com/phpshift/Frame) - Stores the initial frame of the project
 3. [Work](https://github.com/phpshift/Work) - Incorporates AI skills into the framework environment
 4. [Docs](https://github.com/phpshift/Docs) - Documentation of the framework
 5. [Ship](https://github.com/phpshift/Ship) - Delivers a range of components of the framework
-6. [Page](https://github.com/phpshift/Page) - Landing page of the framework
 
 These subsystems are part of the framework's **unified system architecture**, separated into independent GitHub repositories that can be evolved independently to enhance PHPShift's capabilities
 
